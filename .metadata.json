@@ -1,0 +1,10 @@
+[
+  {
+    "package": "RDocumentation",
+    "oncran": true
+  },
+  {
+    "package": "tutorial",
+    "oncran": true
+  }
+]

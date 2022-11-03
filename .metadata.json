@@ -2,8 +2,5 @@
   {
     "package": "RDocumentation",
     "oncran": true
-  },
-  {
-    "package": "tutorial"
   }
 ]
